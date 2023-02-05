@@ -1,0 +1,17 @@
+C:\Users\zydru\source\repos\TechnineUzduotis\obj\Debug\net6.0\TechnineUzduotis.csproj.AssemblyReference.cache
+C:\Users\zydru\source\repos\TechnineUzduotis\obj\Debug\net6.0\TechnineUzduotis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zydru\source\repos\TechnineUzduotis\obj\Debug\net6.0\TechnineUzduotis.AssemblyInfoInputs.cache
+C:\Users\zydru\source\repos\TechnineUzduotis\obj\Debug\net6.0\TechnineUzduotis.AssemblyInfo.cs
+C:\Users\zydru\source\repos\TechnineUzduotis\obj\Debug\net6.0\TechnineUzduotis.csproj.CoreCompileInputs.cache
+C:\Users\zydru\source\repos\TechnineUzduotis\bin\Debug\net6.0\TechnineUzduotis.exe
+C:\Users\zydru\source\repos\TechnineUzduotis\bin\Debug\net6.0\TechnineUzduotis.deps.json
+C:\Users\zydru\source\repos\TechnineUzduotis\bin\Debug\net6.0\TechnineUzduotis.runtimeconfig.json
+C:\Users\zydru\source\repos\TechnineUzduotis\bin\Debug\net6.0\TechnineUzduotis.dll
+C:\Users\zydru\source\repos\TechnineUzduotis\bin\Debug\net6.0\TechnineUzduotis.pdb
+C:\Users\zydru\source\repos\TechnineUzduotis\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\zydru\source\repos\TechnineUzduotis\obj\Debug\net6.0\TechnineUzduotis.csproj.CopyComplete
+C:\Users\zydru\source\repos\TechnineUzduotis\obj\Debug\net6.0\TechnineUzduotis.dll
+C:\Users\zydru\source\repos\TechnineUzduotis\obj\Debug\net6.0\refint\TechnineUzduotis.dll
+C:\Users\zydru\source\repos\TechnineUzduotis\obj\Debug\net6.0\TechnineUzduotis.pdb
+C:\Users\zydru\source\repos\TechnineUzduotis\obj\Debug\net6.0\TechnineUzduotis.genruntimeconfig.cache
+C:\Users\zydru\source\repos\TechnineUzduotis\obj\Debug\net6.0\ref\TechnineUzduotis.dll
